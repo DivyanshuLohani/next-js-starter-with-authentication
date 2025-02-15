@@ -25,7 +25,7 @@ cd next-js-starter-with-authentication
 
 ### 2. Install Dependencies
 ```bash
-npm install
+npm install --force
 ```
 
 ### 3. Configure Environment Variables
